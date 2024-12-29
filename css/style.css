@@ -8011,10 +8011,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #82ae46; }
+  color: EF9C66; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #82ae46; }
+    color: EF9C66; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -8055,7 +8055,7 @@ h1, h2, h3, h4, h5,
     position: relative;
     top: 0; }
   .ftco-navbar-light .navbar-brand {
-    color: #82ae46; }
+    color: #EF9C66; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #000000; }
     @media (max-width: 991.98px) {
@@ -8514,28 +8514,28 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #82ae46;
-    border: 1px solid #82ae46;
+    background: #EF9C66;
+    border: 1px solid ##EF9C66;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #82ae46;
+      border: 1px solid #EF9C66;
       background: transparent;
-      color: #82ae46; }
+      color: #EF9C66; }
     .btn.btn-primary.btn-outline-primary {
-      border: 1px solid #82ae46;
+      border: 1px solid ##EF9C66;
       background: transparent;
-      color: #82ae46; }
+      color: #EF9C66; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
-        background: #82ae46;
+        background: #EF9C66;
         color: #fff; }
   .btn.btn-white {
     background: #fff;
     border: 1px solid #fff;
     color: #000000; }
     .btn.btn-white:hover {
-      background: #82ae46;
-      border: 1px solid #82ae46;
+      background: #EF9C66;
+      border: 1px solid #EF9C66;
       color: #fff; }
     .btn.btn-white.btn-outline-white {
       border: 1px solid #fff;
@@ -8543,15 +8543,15 @@ h1, h2, h3, h4, h5,
       color: #fff; }
       .btn.btn-white.btn-outline-white:hover {
         border: 1px solid transparent;
-        background: #82ae46;
+        background: #EF9C66;
         color: #fff; }
   .btn.btn-black {
     background: #000000;
     border: 1px solid #000000;
     color: #fff; }
     .btn.btn-black:hover {
-      background: #82ae46;
-      border: 1px solid #82ae46;
+      background: #EF9C66;
+      border: 1px solid #EF9C66;
       color: #fff; }
     .btn.btn-black.btn-outline-white {
       border: 1px solid #000000;
